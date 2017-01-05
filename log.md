@@ -19,3 +19,13 @@
 **Link to work:**
 [Hackerrank profile](https://www.hackerrank.com/sercanulucan)  
 [4Clojure repo] (https://github.com/sercanu/four-clojure)
+
+### Day 2: January 5, 2017
+
+**Today's Progress**: Solved about 4 problems at Hackerrank, solved 4Clojure problems too
+
+**Thoughts:** Solving problems is fun and motivational.
+
+**Link to work:**
+[Hackerrank profile](https://www.hackerrank.com/sercanulucan)  
+[4Clojure repo] (https://github.com/sercanu/four-clojure)
